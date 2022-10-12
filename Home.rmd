@@ -1,0 +1,18 @@
+[![](Images/logo1.svg)](index.html)
+
+*   [HOME](index.html)
+*   [ACADEMICS](academics.html)
+*   [GALLERY](gallery.html)
+*   [CONTACT](contact.html)
+
+![](Images/Main_building.jpg)
+
+**Mepco Schlenk Engineering College**
+=====================================
+
+WELCOME TO THE COLLEGE WEBSITE
+
+[APPLY NOW !](admission.html)
+![attached audio](music/1.mp3)
+![attached audio](music/2.mp4)
+

@@ -1,0 +1,18 @@
+[![](Images/logo1.svg)](index.html)
+
+*   [HOME](index.html)
+*   [ACADEMICS](sample.html)
+*   [ADMISSION](admission.html)
+*   [GALLERY](gallery.html)
+*   [CONTACT](contact.html)
+
+![](Images/Main_building.jpg)
+
+**Mepco Schlenk Engineering College**
+=====================================
+
+WELCOME TO THE COLLEGE WEBSITE
+
+[APPLY NOW !](admission.html)
+
+Developed by [Arunkumar](https://www.github.com/Arunkumar-eng) [(Say Hi!)](https://www.instagram.com/arunkumar49r)

@@ -1,0 +1,24 @@
+   Admission 
+
+Admission
+=========
+
+  
+
+First Name:   
+  
+Second Name:   
+  
+Phone Number:   
+  
+E-mail:   
+  
+Data of Birth:   
+  
+Cut off mark:   
+  
+Gender:  Male  Female  Others
+
+Please select the course:
+
+Computer Science Electronics and Communication Electrical and Electronics Civl Mechanical Artificial Intelligence and Data Science Information Technology Bio-Medical Bio-Technology

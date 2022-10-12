@@ -1,0 +1,27 @@
+   ECE 
+
+Department of Electronics and Communication
+===========================================
+
+![](Images/ece.jpg)
+
+Salient Features
+
+*   B.E. ECE accredited by National Board of Accreditation (NBA) with highest grade consequently five times (1998, 2002, 2009, 2015(TIER-1), 2018 (TIER-1))
+*   M.E. Communication Systems accredited by National Board of Accreditation (NBA) with highest grade in the year 2020.
+*   Recognized as Research Centre by Anna University Chennai, for collaborative Research programme and for pursuing Full Time / Part Time Ph.D / M.S. Degree.
+*   Industry Institute laboratory with MoU
+    *   Texas Instruments Innovation Centre
+    *   Cisco Networking Academy
+    *   Tessolve semiconductor test engineering lab for STE-SDC course.
+    *   Atmel AVR MCU Centre
+
+
+VISION
+
+
+"To render services to meet the growing global challenges of Engineering industries and organizations by educating students to become exemplary professional Electronics and Communication Engineers of high ethics"
+
+MISSION
+
+"To enable Graduates evolve as Competent Hardware and Software Engineers needed by Industry with emphasis on virtues contributing to Societal Welfare"

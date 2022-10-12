@@ -1,0 +1,52 @@
+   Gallery 
+
+Gallery
+=======
+
+Administrative Block
+
+![](Images/administrative_block.jpg)
+
+MCC
+
+![](Images/MCC.jpg)
+
+Conference Hall
+
+![](Images/ConfrenceHall.jpg)
+
+ECE Seminar Hall
+
+![](Images/ECE_Hall.jpg)
+
+Library
+
+![](Images/library.jpg)
+
+Basketball Court
+
+![](Images/basketball_court.jpg)
+
+Football Court
+
+![](Images/football_court.jpg)
+
+Badmittion Court
+
+![](Images/indoor_court.jpg)
+
+Chess Tournament
+
+![](Images/indoor_stad.jpg)
+
+Rifle Club
+
+![](Images/Rifle_club.jpg)
+
+Yogo Asnas
+
+![](Images/Yogo_asnas.jpg)
+
+Gyan Mitra
+
+![](Images/Gyan_mitra.jpg)

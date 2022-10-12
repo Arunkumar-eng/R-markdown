@@ -1,0 +1,45 @@
+Academics
+=========
+
+### 
+
+Preparing students to make meaningful contributions as engaged citizens and leaders in a complex world
+
+Our Featured UG Courses
+=======================
+
+B.E - Civil Engineering
+
+[Explore!](civil.html)
+
+B.E - Electrical and Electronics Engineering
+
+[Explore!](eee.html)
+
+B.E - Electronics and Communication Engineering
+
+[Explore!](ece.html)
+
+B.E - Computer Science Engineering
+
+[Explore!](cs.html)
+
+B.E - Mechanical Engineering
+
+[Explore!](mech.html)
+
+B.E - Information Engineering
+
+[Explore!](it.html)
+
+B.E - Bio Technology Engineering
+
+[Explore!](biotech.html)
+
+B.E - Bio Medical Engineering
+
+[Explore!](biomed.html)
+
+B.E - Artificial Intelligence and Data Science Engineering
+
+[Explore!](aids.html)
